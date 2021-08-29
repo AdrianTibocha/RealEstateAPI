@@ -25,4 +25,4 @@ Una vez se inicie el api mediante Visual Studio se abrira una ventana en el nave
   * filter: condicion de busqueda, en caso de ser numerico se aceptan (equal, greaterthan, smallerthan ) y en caso de ser cadena de caracteres se acepta (equal, contains)
 
 * La creacion de una propiedad en el endpoint 'api/v1/Property' debe tener relacionado un idOwner de un propietario (Owner) previamente creado
-* Adjunto se encuentra backup de base de datos para su ejecucion, o scripts de creacion, configuracion e insercion de datos iniciales.
+* En la carpeta configuration se encuentran scripts de creacion, configuracion e insercion de datos iniciales en sql server e imagen relacionando los servicios disponibles para su uso.
